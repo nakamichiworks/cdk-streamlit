@@ -29,7 +29,7 @@ dist/
 downloads/
 eggs/
 .eggs/
-lib/
+# lib/  # conflict with infra/lib
 lib64/
 parts/
 sdist/
